@@ -1,0 +1,1 @@
+# WAI_Stock_Trend_Identifier
